@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Verdana, SansSerif;
+}
+a{
+    font-family: Courier;
+}
+Footer{
+    font-family: Times; font-size: small; font-weight: normal;
+}
+th{
+    font-family: Arial,Verdana,SansSerif;
+    color: slategray;
+}
+h3{
+    font-family: Courier;
+    font-size: medium;
+}
+p{ color: chartreuse}
+
